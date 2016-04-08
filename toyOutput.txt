@@ -1,0 +1,1 @@
+(s 1) (banana 1) (hi 3) (orange 2) (chair 1) (bye 4) (apple 2) (buckets 1) 
